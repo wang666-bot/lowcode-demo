@@ -1,0 +1,1 @@
+{"version":3,"file":"style.js","sourceRoot":"","sources":["../../src/form-collapse/style.ts"],"names":[],"mappings":"AAAA,OAAO,gCAAgC,CAAA;AACvC,OAAO,6BAA6B,CAAA","sourcesContent":["import '@alifd/next/lib/collapse/style'\nimport '@alifd/next/lib/badge/style'\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"style.js","sourceRoot":"","sources":["../../src/form-drawer/style.ts"],"names":[],"mappings":";;AAAA,wCAAqC","sourcesContent":["import '@alifd/next/lib/drawer/style'\n"]}

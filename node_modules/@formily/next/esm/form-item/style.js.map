@@ -1,0 +1,1 @@
+{"version":3,"file":"style.js","sourceRoot":"","sources":["../../src/form-item/style.ts"],"names":[],"mappings":"AAAA,OAAO,4BAA4B,CAAA;AACnC,OAAO,aAAa,CAAA","sourcesContent":["import '@alifd/next/lib/form/style'\nimport './main.scss'\n"]}

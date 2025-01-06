@@ -1,0 +1,1 @@
+{"version":3,"file":"style.js","sourceRoot":"","sources":["../../src/array-items/style.ts"],"names":[],"mappings":";;AAAA,wCAAqC;AACrC,uBAAoB","sourcesContent":["import '@alifd/next/lib/button/style'\nimport './main.scss'\n"]}

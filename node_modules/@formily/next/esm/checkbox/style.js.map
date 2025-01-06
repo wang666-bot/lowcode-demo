@@ -1,0 +1,1 @@
+{"version":3,"file":"style.js","sourceRoot":"","sources":["../../src/checkbox/style.ts"],"names":[],"mappings":"AAAA,OAAO,gCAAgC,CAAA","sourcesContent":["import '@alifd/next/lib/checkbox/style'\n"]}
